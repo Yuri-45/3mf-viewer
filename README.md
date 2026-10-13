@@ -128,7 +128,7 @@ python3 scripts/make_demo_models.py ~/Desktop/3MF-Demo
 You need Xcode 15 or newer (or the Xcode command-line tools).
 
 ```sh
-git clone https://github.com/1300023/3mf-viewer.git
+git clone https://yuri-45.github.io
 cd 3mf-viewer
 
 swift run                       # quick start from the terminal
